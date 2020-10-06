@@ -2,7 +2,7 @@
 This is the demo codes for call center project
 
 ## AWS ETL
-Oracle Databast --> AWS RDS --> S3 Bucket --> AWS Glue Crawlers --> AWS Redshift 
+Oracle Database --> AWS RDS --> S3 Bucket --> AWS Glue Crawlers --> AWS Redshift 
 
 ### Files 
 * oracle-db: sample codes for oracle database 
